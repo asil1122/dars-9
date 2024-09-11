@@ -1,0 +1,301 @@
+{   "banner":[
+        {
+            "id": "1",
+            "img": "https://raw.githubusercontent.com/asil1122/imgs/main/banner/banner_1.png"
+        }
+    ],
+    "products": [
+        {
+            "id": "1",
+            "img": "https://raw.githubusercontent.com/asil1122/imgs/main/products/products_1.png",
+            "price": "1 999 ₽",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "2",
+            "img": "https://raw.githubusercontent.com/asil1122/imgs/main/products/products_2.png",
+            "price": "1 999 ₽",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "3",
+            "img": "https://raw.githubusercontent.com/asil1122/imgs/main/products/products_3.png",
+            "price": "1 999 ₽",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "4",
+            "img": "https://raw.githubusercontent.com/asil1122/imgs/main/products/products_4.png",
+            "price": "1 999 ₽",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "5",
+            "img": "https://raw.githubusercontent.com/asil1122/imgs/main/products/products_1.png",
+            "price": "1 999 ₽",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "6",
+            "img": "https://raw.githubusercontent.com/asil1122/imgs/main/products/products_2.png",
+            "price": "1 999 ₽",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "7",
+            "img": "https://raw.githubusercontent.com/asil1122/imgs/main/products/products_3.png",
+            "price": "1 999 ₽",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "8",
+            "img": "https://raw.githubusercontent.com/asil1122/imgs/main/products/products_4.png",
+            "price": "1 999 ₽",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "9",
+            "img": "https://raw.githubusercontent.com/asil1122/imgs/main/products/products_4.png",
+            "price": "1 999 ₽",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "10",
+            "img": "https://raw.githubusercontent.com/asil1122/imgs/main/products/products_1.png",
+            "price": "1 999 ₽",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "11",
+            "img": "https://raw.githubusercontent.com/asil1122/imgs/main/products/products_2.png",
+            "price": "1 999 ₽",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "12",
+            "img": "https://raw.githubusercontent.com/asil1122/imgs/main/products/products_4.png",
+            "price": "1 999 ₽",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        }
+    ],
+    "newProducts": [
+        {
+            "id": 1,
+            "price": "2 399",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 01",
+            "img": "https://raw.githubusercontent.com/User-Takhirov/Place_mic/main/News_products/New_products_1.png"
+          },
+          {
+            "id": 2,
+            "price": "2 399",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 01",
+            "img": "https://raw.githubusercontent.com/User-Takhirov/Place_mic/main/News_products/New_products_1.png"
+          },
+          {
+            "id": 3,
+            "price": "2 399",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 01",
+            "img": "https://raw.githubusercontent.com/User-Takhirov/Place_mic/main/News_products/New_products_1.png"
+          },
+          {
+            "id": 4,
+            "price": "2 399",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 01",
+            "img": "https://raw.githubusercontent.com/User-Takhirov/Place_mic/main/News_products/New_products_1.png"
+          },
+          {
+            "id": 5,
+            "price": "2 399",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 01",
+            "img": "https://raw.githubusercontent.com/User-Takhirov/Place_mic/main/News_products/New_products_1.png"
+          },
+          {
+            "id": 6,
+            "price": "2 399",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 01",
+            "img": "https://raw.githubusercontent.com/User-Takhirov/Place_mic/main/News_products/New_products_1.png"
+          },
+          {
+            "id": 7,
+            "price": "2 399",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 01",
+            "img": "https://raw.githubusercontent.com/User-Takhirov/Place_mic/main/News_products/New_products_1.png"
+          },
+          {
+            "id": 8,
+            "price": "2 399",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 01",
+            "img": "https://raw.githubusercontent.com/User-Takhirov/Place_mic/main/News_products/New_products_1.png"
+          },
+          {
+            "id": 9,
+            "price": "2 399",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 01",
+            "img": "https://raw.githubusercontent.com/User-Takhirov/Place_mic/main/News_products/New_products_1.png"
+          },
+          {
+            "id": 10,
+            "price": "2 399",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 01",
+            "img": "https://raw.githubusercontent.com/User-Takhirov/Place_mic/main/News_products/New_products_1.png"
+          },
+          {
+            "id": 11,
+            "price": "2 399",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 01",
+            "img": "https://raw.githubusercontent.com/User-Takhirov/Place_mic/main/News_products/New_products_1.png"
+          },
+          {
+            "id": 12,
+            "price": "2 399",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 01",
+            "img": "https://raw.githubusercontent.com/User-Takhirov/Place_mic/main/News_products/New_products_1.png"
+          }
+    ],
+    "rek": [
+        {
+            "id": "1",
+            "img": "https://raw.githubusercontent.com/asil1122/imgs/main/products/products_1.png",
+            "price": "1 999 ₽",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "2",
+            "img": "https://raw.githubusercontent.com/asil1122/imgs/main/products/products_2.png",
+            "price": "1 999 ₽",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "3",
+            "img": "https://raw.githubusercontent.com/asil1122/imgs/main/products/products_3.png",
+            "price": "1 999 ₽",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "4",
+            "img": "https://raw.githubusercontent.com/asil1122/imgs/main/products/products_4.png",
+            "price": "1 999 ₽",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "5",
+            "img": "https://raw.githubusercontent.com/asil1122/imgs/main/products/products_1.png",
+            "price": "1 999 ₽",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "6",
+            "img": "https://raw.githubusercontent.com/asil1122/imgs/main/products/products_2.png",
+            "price": "1 999 ₽",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "7",
+            "img": "https://raw.githubusercontent.com/asil1122/imgs/main/products/products_3.png",
+            "price": "1 999 ₽",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "8",
+            "img": "https://raw.githubusercontent.com/asil1122/imgs/main/products/products_4.png",
+            "price": "1 999 ₽",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "9",
+            "img": "https://raw.githubusercontent.com/asil1122/imgs/main/products/products_4.png",
+            "price": "1 999 ₽",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "10",
+            "img": "https://raw.githubusercontent.com/asil1122/imgs/main/products/products_1.png",
+            "price": "1 999 ₽",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "11",
+            "img": "https://raw.githubusercontent.com/asil1122/imgs/main/products/products_2.png",
+            "price": "1 999 ₽",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": "12",
+            "img": "https://raw.githubusercontent.com/asil1122/imgs/main/products/products_4.png",
+            "price": "1 999 ₽",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03"
+        },
+        {
+            "id": 13,
+            "price": "2 399",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 01",
+            "img": "https://raw.githubusercontent.com/User-Takhirov/Place_mic/main/News_products/New_products_1.png"
+          },
+          {
+            "id": 14,
+            "price": "2 399",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 01",
+            "img": "https://raw.githubusercontent.com/User-Takhirov/Place_mic/main/News_products/New_products_1.png"
+          },
+          {
+            "id": 15,
+            "price": "2 399",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 01",
+            "img": "https://raw.githubusercontent.com/User-Takhirov/Place_mic/main/News_products/New_products_1.png"
+          },
+          {
+            "id": 16,
+            "price": "2 399",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 01",
+            "img": "https://raw.githubusercontent.com/User-Takhirov/Place_mic/main/News_products/New_products_1.png"
+          },
+          {
+            "id": 17,
+            "price": "2 399",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 01",
+            "img": "https://raw.githubusercontent.com/User-Takhirov/Place_mic/main/News_products/New_products_1.png"
+          },
+          {
+            "id": 18,
+            "price": "2 399",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 01",
+            "img": "https://raw.githubusercontent.com/User-Takhirov/Place_mic/main/News_products/New_products_1.png"
+          },
+          {
+            "id": 19,
+            "price": "2 399",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 01",
+            "img": "https://raw.githubusercontent.com/User-Takhirov/Place_mic/main/News_products/New_products_1.png"
+          },
+          {
+            "id": 20,
+            "price": "2 399",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 01",
+            "img": "https://raw.githubusercontent.com/User-Takhirov/Place_mic/main/News_products/New_products_1.png"
+          },
+          {
+            "id": 21,
+            "price": "2 399",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 01",
+            "img": "https://raw.githubusercontent.com/User-Takhirov/Place_mic/main/News_products/New_products_1.png"
+          },
+          {
+            "id": 22,
+            "price": "2 399",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 01",
+            "img": "https://raw.githubusercontent.com/User-Takhirov/Place_mic/main/News_products/New_products_1.png"
+          },
+          {
+            "id": 23,
+            "price": "2 399",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 01",
+            "img": "https://raw.githubusercontent.com/User-Takhirov/Place_mic/main/News_products/New_products_1.png"
+          },
+          {
+            "id": 24,
+            "price": "2 399",
+            "text": "Чехол для iphone 12 с дизайнерским принтом Super Shape 01",
+            "img": "https://raw.githubusercontent.com/User-Takhirov/Place_mic/main/News_products/New_products_1.png"
+          }
+    ]
+}
